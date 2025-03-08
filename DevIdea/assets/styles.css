@@ -1,0 +1,23 @@
+.stApp {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.metric-card {
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    padding: 1rem;
+    margin: 0.5rem 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.comparison-container {
+    border: 1px solid #e1e4e8;
+    border-radius: 10px;
+    padding: 1.5rem;
+    margin: 1rem 0;
+}
+
+.chart-container {
+    margin: 2rem 0;
+}
